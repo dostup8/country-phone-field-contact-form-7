@@ -1,6 +1,7 @@
 {
   "name": "country-phone-field-contact-form-7",
-  "description": "",
+  "version": "1.0.0",
+  "description": "Phone field",
   "repositories":[
     {
       "type":"composer",
@@ -11,8 +12,8 @@
   },
   "authors": [
     {
-      "name": "",
-      "email": ""
+      "name": "Igor Shvetsov",
+      "email": "dostup8@yandex.ru"
     }
   ],
   "extra": {
