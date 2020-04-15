@@ -1,0 +1,26 @@
+{
+  "name": "country-phone-field-contact-form-7",
+  "description": "",
+  "repositories":[
+    {
+      "type":"composer",
+      "url":"https://wpackagist.org"
+    }
+  ],
+  "require": {
+  },
+  "authors": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "extra": {
+    "wordpress-install-dir": "root/wp",
+    "installer-paths" : {
+      "root/content/plugins/qtranslate-x": ["cheplv/qtranslate-x"],
+      "root/content/plugins/{$name}/": ["type:wordpress-plugin"],
+      "root/content/themes/{$name}/": ["type:wordpress-theme"]
+    }
+  }
+}
